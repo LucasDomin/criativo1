@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.vercel
+outputs/svg/
+outputs/png/
+outputs/zip/
+uploads/
+venv/
+*.bak
